@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="TriangleTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2016-02-15T18:20:43" hostname="epicodus-50.local" time="0.002">
+<testsuite name="TriangleTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2016-02-15T19:28:37" hostname="epicodus-50.local" time="0.004">
   <properties/>
-  <testcase name="newTriangle_instantiatesCorrectly" classname="TriangleTest" time="0.001"/>
+  <testcase name="newTriangle_instantiatesCorrectly" classname="TriangleTest" time="0.0"/>
   <testcase name="newTriangle_setsSideOne" classname="TriangleTest" time="0.0"/>
   <testcase name="newTriangle_setsSideTwo" classname="TriangleTest" time="0.0"/>
-  <testcase name="isEquilateral_ifTriangleSidesAreEqual_true" classname="TriangleTest" time="0.0"/>
-  <testcase name="newTriangle_setsSideThree" classname="TriangleTest" time="0.0"/>
+  <testcase name="isEquilateral_ifTriangleSidesAreEqual_true" classname="TriangleTest" time="0.001"/>
+  <testcase name="newTriangle_setsSideThree" classname="TriangleTest" time="0.001"/>
   <testcase name="isNotTriangle_ifSumOfTwoSidesIsLessThanThirdSide_true" classname="TriangleTest" time="0.0"/>
   <testcase name="isScalene_ifNoSidesAreEqual_true" classname="TriangleTest" time="0.0"/>
   <testcase name="isIsosceles_ifTwoTriangleSidesAreEqual_true" classname="TriangleTest" time="0.0"/>

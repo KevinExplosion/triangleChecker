@@ -1,0 +1,11 @@
+<h3>Triangle Finder</h3>
+<hr>
+#if ($myTriangle.isEquilateral())
+  <h3>Your triangle is equilateral.</h3>
+#elseif ($myTriangle.isIsosceles())
+  <h3>Your triangle is isosceles.</h3>
+#elseif ($myTriangle.isScalene())
+  <h3>Your triangle is scalene.</h3>
+#else
+  <h3>Your dimensions do not make a triangle.</h3>
+#end
